@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hanisha717
+- 👋 Hi, I’m Hanisha Attaluri
 - 👀 I’m interested in exploring new ideas and experimenting with creative projects.
 - 🌱 I’m currently learning coding, problem-solving techniques, and innovative approaches in tech.
 - 💞️ I’m looking to collaborate on software development, creative writing, or any exciting project that sparks curiosity.
